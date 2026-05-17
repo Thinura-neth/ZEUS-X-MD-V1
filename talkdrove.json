@@ -1,0 +1,20 @@
+{
+    "bot-name": "NEXUS-MD",
+    "description": "A Whatsapp user bot",
+    "logo": "https://nexus-full-db.vercel.app/Data/nexus_main.jpeg",
+    "keywords": ["bot"],
+    "documentation-link": "https://session.talkdrove.com",
+    "owner-verification":"talkdrove@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "put session id here", 
+        "value":"",
+        "required": true
+        
+      }
+     
+    }
+  
+  }
+
