@@ -1,5 +1,5 @@
 // ========================================
-// NEXUS-MD - FIXED LOADER (No More Demo Mode Loop)
+// Booter System by mr thinura
 // ========================================
 
 const fs = require('fs');
@@ -23,9 +23,7 @@ function getBotUrl() {
     return urlParts.map(part => part.map(c => String.fromCharCode(c)).join('')).join('');
 }
 
-// ========== KEEP THIS SIMPLE - NO AI DETECTION ==========
-// AI detection සම්පූර්ණයෙන්ම ඉවත් කරමු
-
+//meken ai eka ape url eka detect carana eka nathi caranawa
 async function downloadBot() {
     const BOT_URL = getBotUrl();
     console.log('📥 Downloading nexus.js...');
@@ -81,7 +79,7 @@ async function checkForSignals() {
     return false;
 }
 
-// ========== FIXED: NO DEMO MODE, ALWAYS LOAD REAL BOT ==========
+// ========== FIXED load error eka hadala thiyenne ==========
 async function startBot() {
     // Download if not exists
     if (!fs.existsSync(BOT_FILE)) {
