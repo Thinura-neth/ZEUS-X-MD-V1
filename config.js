@@ -11,7 +11,6 @@ SESSION_ID:'session eka methenta danna',
 ANTI_DELETE: process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_DELETE, 
 MV_BLOCK: process.env. MV_BLOCK === undefined ? 'false' : process.env. MV_BLOCK,    
 ANTI_LINK: process.env.ANTI_LINK === undefined ? 'true' : process.env.ANTI_LINK, 
-PONNA_ALERT: process.env.PONNA_ALERT === undefined ? 'false' : process.env.PONNA_ALERT,
 SEEDR_MAIL: '',
 SEEDR_PASSWORD: '',
 SUDO: '',//
