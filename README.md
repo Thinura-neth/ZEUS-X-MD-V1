@@ -1,69 +1,161 @@
 <p align="center">
-  <img src="https://zeus-x-md-database.pages.dev/Data/zeus-x-main.jpeg" alt="ZEUS X MD" width="650" style="animation: pulse 2s infinite; border-radius: 20px;"/>
+  <img src="https://zeus-x-md-database.pages.dev/Data/zeus-x-main.jpeg" alt="ZEUS X MD" width="650"/>
 </p>
 
-<h1 align="center">
-  <span style="background: linear-gradient(45deg, #25D366, #128C7E, #075E54, #25D366); background-size: 300% 300%; animation: gradient 3s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    ZEUS X MD
-  </span>
-</h1>
+<h1 align="center">⚡ ZEUS X MD</h1>
+
+<p align="center">
+  <strong>🔥 Powerful WhatsApp Multi-Device Bot</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ZEUS%20X%20MD-WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Baileys-Multi--Device-128C7E?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <a href="https://6b0a0c64a3d8ebeb.app.lowcloud.co/">
-    <img src="https://img.shields.io/badge/📱-GET_SESSION_ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID" style="animation: shimmer 2s infinite;"/>
+    <img src="https://img.shields.io/badge/📱%20GET%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID"/>
   </a>
 </p>
 
-<!-- Typing Animation with First Line in RED -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=BEST+MOVIE+BOT+IN+SRI+LANKA+%231%F0%9F%94%A5;WhatsApp+Multi-Device+Bot;%F0%9F%8E%AF+Your+Movie+Companion;%F0%9F%9A%80+Super+Fast+%26+Stable" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=650&lines=BEST+MOVIE+BOT+IN+SRI+LANKA+%231🔥;WhatsApp+Multi-Device+Bot;🎯+Your+Movie+Companion;🚀+Super+Fast+%26+Stable" alt="Typing Animation"/>
 </p>
 
+---
+
+# ✨ Introduction
+
+**ZEUS X MD** is a powerful **WhatsApp Multi-Device (MD) Bot** built using the **Baileys** library.
+
+It is designed to provide a wide range of useful features directly through WhatsApp, including movie searching, media downloading, AI-powered interactions, group management, media conversion, automation, and much more.
+
+With a modular plugin-based architecture and an extensive command system, ZEUS X MD can be customized and extended according to your needs.
 
 ---
 
-## ✨ Introduction
+# 🏢 About ZEUS X INC
 
-**ZEUS X MD** is a powerful WhatsApp Multi-Device (MD) bot built on the **Baileys** library. It is designed to search, stream, and download movies seamlessly, turning your WhatsApp into an ultimate entertainment hub. With a robust plugin system and extensive command library, it automates tasks and enhances your messaging experience.
+**ZEUS X INC** is a technology and development team focused on building innovative digital solutions, including:
+
+- 🤖 WhatsApp Bots
+- 🌐 APIs
+- 💻 Web Applications
+- ⚙️ Automation Tools
+- 🛠️ Developer Tools
+- 📦 Open-Source Projects
+- 🚀 Digital Solutions
+
+Our goal is to build reliable, fast, modern, and developer-friendly projects while continuously improving our technology and community.
+
+## 👑 Founder & Owner
+
+**Mr ThinUzz**
+
+- **Real Name:** Thinura Nethsara
+- **Position:** Founder & Owner of ZEUS X INC
+
+Mr ThinUzz is the founder and owner of **ZEUS X INC**, responsible for the overall direction, development, management, and growth of the team and its projects.
+
+## 🌐 Mr ThinUzz API
+
+ZEUS X INC also develops and maintains the **Mr ThinUzz API** platform, providing useful APIs and developer tools for applications, websites, and bots.
+
+🔗 **API Website:**  
+https://mr-thinuzz-api-build.zone.id
 
 ---
 
-## ⚡ Features
+# ⚡ Features
 
-- 🎬 **Movie Magic** – Search, stream, and download movies directly from WhatsApp.
-- 🤖 **AI-Powered** – Smart replies and AI chat integration.
-- 🛠️ **Modular & Customizable** – Easy-to-edit command system and plugin support.
-- ⚙️ **Group Management** – Kick, add, promote, demote, tagall, welcome, and more.
-- 📥 **Downloader** – Supports YouTube, Spotify, Instagram, Facebook, TikTok, and more.
-- 🎨 **Media Conversion** – Sticker maker, image converter, TTS, URL shortener, and more.
-- 🔒 **Security & Anti-Spam** – Anti-link, anti-delete, anti-spam, and auto-react features.
-- ⏱️ **24/7 Stability** – Optimized for continuous uptime and fast response.
-- 🧩 **260+ Commands** – Extensive library for all your needs.
+### 🎬 Movie System
+- 🔎 Search movies
+- 🎥 Movie information
+- 📥 Movie downloading
+- ▶️ Movie streaming support
+- 🍿 Entertainment-focused commands
+
+### 🤖 AI Features
+- 🧠 AI chat
+- 💬 Smart replies
+- 🤖 AI-powered interactions
+- ✨ Intelligent automation
+
+### 🛠️ Group Management
+- 👢 Kick members
+- ➕ Add members
+- 👑 Promote members
+- 📉 Demote members
+- 🏷️ Tag all members
+- 👋 Welcome messages
+- 🚫 Anti-link
+- 🛡️ Group protection
+
+### 📥 Downloader
+Supports various media platforms and services, depending on the configured APIs:
+
+- ▶️ YouTube
+- 🎵 Spotify
+- 📸 Instagram
+- 📘 Facebook
+- 🎵 TikTok
+- 🌐 Other supported platforms
+
+### 🎨 Media Tools
+- 🖼️ Image conversion
+- 🎨 Sticker creation
+- 🔊 Text-to-Speech
+- 🔗 URL tools
+- 📝 Text utilities
+- 📱 Media processing
+
+### 🔐 Security & Automation
+- 🚫 Anti-link
+- 🛡️ Anti-spam
+- 🗑️ Anti-delete
+- ❤️ Auto-react
+- 🤖 Automated responses
+- ⚙️ Custom automation
+
+### 🚀 Performance
+- ⚡ Fast response
+- 🔄 Multi-device support
+- 🧩 Modular command system
+- 🔌 Plugin support
+- ⏱️ Designed for continuous operation
+
+### 📚 Command Library
+
+**260+ commands** are available across different categories.
+
+The exact command count may change as new features and plugins are added.
 
 ---
 
-## 🧑‍💻 ZEUS X INC TEAM
+# 🧑‍💻 ZEUS X INC TEAM
 
 <p align="center">
-  <table>https://files.catbox.moe/t1e8q2.jpg
+  <table>
     <tr>
       <td align="center">
-        <img src="https://files.catbox.moe/t1e8q2.jpg" width="100" style="border-radius: 50%; border: 3px solid #25D366; transition: transform 0.3s;"/><br/>
+        <img src="https://files.catbox.moe/t1e8q2.jpg" width="100" height="100"/><br/>
         <strong>Mr ThinUzz</strong><br/>
-        <sub>Lead Developer / INC OWNER</sub>
+        <sub>Lead Developer / INC Owner</sub>
       </td>
       <td align="center">
-        <img src="https://files.catbox.moe/6qrvto.jpg" width="100" style="border-radius: 50%; border: 3px solid #25D366; transition: transform 0.3s;"/><br/>
+        <img src="https://files.catbox.moe/6qrvto.jpg" width="100" height="100"/><br/>
         <strong>Pathum Rajapakshe</strong><br/>
-        <sub>Api Provider | Developer</sub>
+        <sub>API Provider | Developer</sub>
       </td>
       <td align="center">
-        <img src="https://files.catbox.moe/z07c5l.jpg" width="100" style="border-radius: 50%; border: 3px solid #25D366; transition: transform 0.3s;"/><br/>
+        <img src="https://files.catbox.moe/z07c5l.jpg" width="100" height="100"/><br/>
         <strong>Vihaga (MR ERROR)</strong><br/>
         <sub>Senior Developer / Bug Fixer</sub>
       </td>
       <td align="center">
-        <img src="https://files.catbox.moe/gj4sif.jpg" width="100" style="border-radius: 50%; border: 3px solid #25D366; transition: transform 0.3s;"/><br/>
+        <img src="https://files.catbox.moe/gj4sif.jpg" width="100" height="100"/><br/>
         <strong>Dev ShaGee</strong><br/>
         <sub>UI/UX Designer & Developer</sub>
       </td>
@@ -73,18 +165,14 @@
 
 ---
 
-## 🚀 Setup Guide
+# 🚀 Setup Guide
 
-### 1. Fork the Repository
-Create your own copy of the repository under your GitHub account.
+## 1️⃣ Fork the Repository
 
-### 2. Get Session ID
-Generate a pair code to obtain your session string.  
-👉 **Click the big green button above** or visit: https://6b0a0c64a3d8ebeb.app.lowcloud.co/
+Fork this repository to your GitHub account.
 
-### 3. Configure
-Edit the `config.js` file or set environment variables:
-```javascript
-module.exports = {
-SESSION_ID:'YOUR_SESSION_ID_HERE',
+After forking, clone your repository:
 
+```bash
+git clone YOUR_FORKED_REPOSITORY_URL
+cd ZEUS-X-MD
