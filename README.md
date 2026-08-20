@@ -134,37 +134,6 @@ The exact command count may change as new features and plugins are added.
 
 ---
 
-# 🧑‍💻 ZEUS X INC TEAM
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://files.catbox.moe/t1e8q2.jpg" width="100" height="100"/><br/>
-        <strong>Mr ThinUzz</strong><br/>
-        <sub>Lead Developer / INC Owner</sub>
-      </td>
-      <td align="center">
-        <img src="https://files.catbox.moe/6qrvto.jpg" width="100" height="100"/><br/>
-        <strong>Pathum Rajapakshe</strong><br/>
-        <sub>API Provider | Developer</sub>
-      </td>
-      <td align="center">
-        <img src="https://files.catbox.moe/z07c5l.jpg" width="100" height="100"/><br/>
-        <strong>Vihaga (MR ERROR)</strong><br/>
-        <sub>Senior Developer / Bug Fixer</sub>
-      </td>
-      <td align="center">
-        <img src="https://files.catbox.moe/gj4sif.jpg" width="100" height="100"/><br/>
-        <strong>Dev ShaGee</strong><br/>
-        <sub>UI/UX Designer & Developer</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 # 🚀 Setup Guide
 
 ## 1️⃣ Fork the Repository
