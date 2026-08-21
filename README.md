@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://6b0a0c64a3d8ebeb.app.lowcloud.co/](https://d4adc27f42d4f4c0.app.lowcloud.co)">
+  <a href="https://d4adc27f42d4f4c0.app.lowcloud.co">
     <img src="https://img.shields.io/badge/📱%20GET%20SESSION%20ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID"/>
   </a>
 </p>
