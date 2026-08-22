@@ -12,7 +12,7 @@
     "@adiwajshing/keyed-db": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "@google-cloud/translate": "latest",
-    "@whiskeysockets/baileys": "github:AmilaPrabathKumara/Baileys-Latest#fix-leak-upload",
+    "@whiskeysockets/baileys": "npm:@dnuzi/baileys",
     "figlet": "^1.7.0",
     "adm-zip": "latest",
     "axios": "^1.15.0",
